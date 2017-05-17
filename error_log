@@ -96,3 +96,73 @@
 [06-May-2017 16:21:29 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/tina/public_html/328/hello/tmp/3mbuebt34ig4c.3vzb1jrga60wg.php on line 32
 [06-May-2017 16:21:29 America/Chicago] Fatal error: syntax error, unexpected '}'
 [06-May-2017 16:21:29 America/Chicago] [328/hello/tmp/3mbuebt34ig4c.3vzb1jrga60wg.php:32] 
+[16-May-2017 21:02:14 America/Chicago] PHP Parse error:  syntax error, unexpected ''jshmo'' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ')' in /home/mbourque/public_html/328/mypets-templating-starter/index.php on line 13
+[16-May-2017 21:02:27 America/Chicago] PHP Parse error:  syntax error, unexpected ''jshmo'' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ')' in /home/mbourque/public_html/328/mypets-templating-starter/index.php on line 13
+[16-May-2017 21:02:35 America/Chicago] PHP Parse error:  syntax error, unexpected '(', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/mbourque/public_html/328/mypets-templating-starter/index.php on line 15
+[16-May-2017 21:02:50 America/Chicago] PHP Parse error:  syntax error, unexpected '(', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/mbourque/public_html/328/mypets-templating-starter/index.php on line 15
+[16-May-2017 21:02:51 America/Chicago] PHP Parse error:  syntax error, unexpected '(', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$' in /home/mbourque/public_html/328/mypets-templating-starter/index.php on line 15
+[16-May-2017 21:03:07 America/Chicago] Call to undefined function sha3() [/home/mbourque/public_html/328/mypets-templating-starter/index.php:14]
+[16-May-2017 21:03:07 America/Chicago] [328/mypets-templating-starter/index.php:22] Base->run()
+[16-May-2017 21:03:25 America/Chicago] Call to undefined function sha3() [/home/mbourque/public_html/328/mypets-templating-starter/index.php:14]
+[16-May-2017 21:03:25 America/Chicago] [328/mypets-templating-starter/index.php:22] Base->run()
+[16-May-2017 21:43:57 America/Chicago] syntax error, unexpected '?' [/home/mbourque/public_html/328/mypets-templating-starter/tmp/3iii34u5mtyc0.2hbmt1l6jeqsc.php:43]
+[16-May-2017 21:43:57 America/Chicago] [328/mypets-templating-starter/index.php:35] Preview->render()
+[16-May-2017 21:43:57 America/Chicago] [328/mypets-templating-starter/index.php:42] Base->run()
+[16-May-2017 21:44:41 America/Chicago] syntax error, unexpected '?' [/home/mbourque/public_html/328/mypets-templating-starter/tmp/3iii34u5mtyc0.2hbmt1l6jeqsc.php:43]
+[16-May-2017 21:44:41 America/Chicago] [328/mypets-templating-starter/index.php:35] Preview->render()
+[16-May-2017 21:44:41 America/Chicago] [328/mypets-templating-starter/index.php:42] Base->run()
+[16-May-2017 21:44:51 America/Chicago] syntax error, unexpected 'value' (T_STRING) [/home/mbourque/public_html/328/mypets-templating-starter/tmp/3iii34u5mtyc0.2hbmt1l6jeqsc.php:43]
+[16-May-2017 21:44:51 America/Chicago] [328/mypets-templating-starter/index.php:35] Preview->render()
+[16-May-2017 21:44:51 America/Chicago] [328/mypets-templating-starter/index.php:42] Base->run()
+[16-May-2017 21:45:07 America/Chicago] syntax error, unexpected 'value' (T_STRING) [/home/mbourque/public_html/328/mypets-templating-starter/tmp/3iii34u5mtyc0.2hbmt1l6jeqsc.php:43]
+[16-May-2017 21:45:07 America/Chicago] [328/mypets-templating-starter/index.php:35] Preview->render()
+[16-May-2017 21:45:07 America/Chicago] [328/mypets-templating-starter/index.php:42] Base->run()
+[16-May-2017 21:45:09 America/Chicago] syntax error, unexpected 'value' (T_STRING) [/home/mbourque/public_html/328/mypets-templating-starter/tmp/3iii34u5mtyc0.2hbmt1l6jeqsc.php:43]
+[16-May-2017 21:45:09 America/Chicago] [328/mypets-templating-starter/index.php:35] Preview->render()
+[16-May-2017 21:45:09 America/Chicago] [328/mypets-templating-starter/index.php:42] Base->run()
+[16-May-2017 21:45:22 America/Chicago] syntax error, unexpected 'value' (T_STRING) [/home/mbourque/public_html/328/mypets-templating-starter/tmp/3iii34u5mtyc0.2hbmt1l6jeqsc.php:43]
+[16-May-2017 21:45:22 America/Chicago] [328/mypets-templating-starter/index.php:35] Preview->render()
+[16-May-2017 21:45:22 America/Chicago] [328/mypets-templating-starter/index.php:42] Base->run()
+[16-May-2017 21:45:23 America/Chicago] syntax error, unexpected 'value' (T_STRING) [/home/mbourque/public_html/328/mypets-templating-starter/tmp/3iii34u5mtyc0.2hbmt1l6jeqsc.php:43]
+[16-May-2017 21:45:23 America/Chicago] [328/mypets-templating-starter/index.php:35] Preview->render()
+[16-May-2017 21:45:23 America/Chicago] [328/mypets-templating-starter/index.php:42] Base->run()
+[16-May-2017 21:46:52 America/Chicago] syntax error, unexpected 'value' (T_STRING) [/home/mbourque/public_html/328/mypets-templating-starter/tmp/3iii34u5mtyc0.2hbmt1l6jeqsc.php:43]
+[16-May-2017 21:46:52 America/Chicago] [328/mypets-templating-starter/index.php:35] Preview->render()
+[16-May-2017 21:46:52 America/Chicago] [328/mypets-templating-starter/index.php:42] Base->run()
+[16-May-2017 21:46:53 America/Chicago] syntax error, unexpected 'value' (T_STRING) [/home/mbourque/public_html/328/mypets-templating-starter/tmp/3iii34u5mtyc0.2hbmt1l6jeqsc.php:43]
+[16-May-2017 21:46:53 America/Chicago] [328/mypets-templating-starter/index.php:35] Preview->render()
+[16-May-2017 21:46:53 America/Chicago] [328/mypets-templating-starter/index.php:42] Base->run()
+[16-May-2017 21:47:52 America/Chicago] syntax error, unexpected 'value' (T_STRING) [/home/mbourque/public_html/328/mypets-templating-starter/tmp/3iii34u5mtyc0.2hbmt1l6jeqsc.php:43]
+[16-May-2017 21:47:52 America/Chicago] [328/mypets-templating-starter/index.php:28] Preview->render()
+[16-May-2017 21:47:52 America/Chicago] [328/mypets-templating-starter/index.php:35] Base->run()
+[16-May-2017 21:47:54 America/Chicago] syntax error, unexpected 'value' (T_STRING) [/home/mbourque/public_html/328/mypets-templating-starter/tmp/3iii34u5mtyc0.2hbmt1l6jeqsc.php:43]
+[16-May-2017 21:47:54 America/Chicago] [328/mypets-templating-starter/index.php:28] Preview->render()
+[16-May-2017 21:47:54 America/Chicago] [328/mypets-templating-starter/index.php:35] Base->run()
+[16-May-2017 21:48:04 America/Chicago] syntax error, unexpected 'value' (T_STRING) [/home/mbourque/public_html/328/mypets-templating-starter/tmp/3iii34u5mtyc0.2hbmt1l6jeqsc.php:43]
+[16-May-2017 21:48:04 America/Chicago] [328/mypets-templating-starter/index.php:28] Preview->render()
+[16-May-2017 21:48:04 America/Chicago] [328/mypets-templating-starter/index.php:35] Base->run()
+[16-May-2017 21:48:06 America/Chicago] syntax error, unexpected 'value' (T_STRING) [/home/mbourque/public_html/328/mypets-templating-starter/tmp/3iii34u5mtyc0.2hbmt1l6jeqsc.php:43]
+[16-May-2017 21:48:06 America/Chicago] [328/mypets-templating-starter/index.php:28] Preview->render()
+[16-May-2017 21:48:06 America/Chicago] [328/mypets-templating-starter/index.php:35] Base->run()
+[16-May-2017 21:48:53 America/Chicago] syntax error, unexpected 'value' (T_STRING) [/home/mbourque/public_html/328/mypets-templating-starter/tmp/3iii34u5mtyc0.2hbmt1l6jeqsc.php:43]
+[16-May-2017 21:48:53 America/Chicago] [328/mypets-templating-starter/index.php:28] Preview->render()
+[16-May-2017 21:48:53 America/Chicago] [328/mypets-templating-starter/index.php:35] Base->run()
+[16-May-2017 21:49:22 America/Chicago] syntax error, unexpected 'value' (T_STRING) [/home/mbourque/public_html/328/mypets-templating-starter/tmp/3iii34u5mtyc0.2hbmt1l6jeqsc.php:43]
+[16-May-2017 21:49:22 America/Chicago] [328/mypets-templating-starter/index.php:28] Preview->render()
+[16-May-2017 21:49:22 America/Chicago] [328/mypets-templating-starter/index.php:35] Base->run()
+[16-May-2017 21:51:05 America/Chicago] syntax error, unexpected 'value' (T_STRING) [/home/mbourque/public_html/328/mypets-templating-starter/tmp/3iii34u5mtyc0.2hbmt1l6jeqsc.php:43]
+[16-May-2017 21:51:05 America/Chicago] [328/mypets-templating-starter/index.php:36] Preview->render()
+[16-May-2017 21:51:05 America/Chicago] [328/mypets-templating-starter/index.php:43] Base->run()
+[16-May-2017 21:52:22 America/Chicago] syntax error, unexpected 'value' (T_STRING) [/home/mbourque/public_html/328/mypets-templating-starter/tmp/3iii34u5mtyc0.2hbmt1l6jeqsc.php:43]
+[16-May-2017 21:52:22 America/Chicago] [328/mypets-templating-starter/index.php:36] Preview->render()
+[16-May-2017 21:52:22 America/Chicago] [328/mypets-templating-starter/index.php:43] Base->run()
+[16-May-2017 21:53:34 America/Chicago] PHP Parse error:  syntax error, unexpected ';', expecting ',' or ')' in /home/mbourque/public_html/328/mypets-templating-starter/index.php on line 33
+[16-May-2017 21:53:51 America/Chicago] syntax error, unexpected 'value' (T_STRING) [/home/mbourque/public_html/328/mypets-templating-starter/tmp/3iii34u5mtyc0.2hbmt1l6jeqsc.php:43]
+[16-May-2017 21:53:51 America/Chicago] [328/mypets-templating-starter/index.php:36] Preview->render()
+[16-May-2017 21:53:51 America/Chicago] [328/mypets-templating-starter/index.php:43] Base->run()
+[16-May-2017 21:54:36 America/Chicago] syntax error, unexpected 'value' (T_STRING) [/home/mbourque/public_html/328/mypets-templating-starter/tmp/3iii34u5mtyc0.2hbmt1l6jeqsc.php:43]
+[16-May-2017 21:54:36 America/Chicago] [328/mypets-templating-starter/index.php:36] Preview->render()
+[16-May-2017 21:54:36 America/Chicago] [328/mypets-templating-starter/index.php:43] Base->run()
+[16-May-2017 21:54:38 America/Chicago] syntax error, unexpected 'value' (T_STRING) [/home/mbourque/public_html/328/mypets-templating-starter/tmp/3iii34u5mtyc0.2hbmt1l6jeqsc.php:43]
+[16-May-2017 21:54:38 America/Chicago] [328/mypets-templating-starter/index.php:36] Preview->render()
+[16-May-2017 21:54:38 America/Chicago] [328/mypets-templating-starter/index.php:43] Base->run()
