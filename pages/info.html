@@ -46,7 +46,17 @@
                 key="{{@key}}"
                 value="{{@value}}">
             <input type='checkbox' value='{{@key}}'/>{{@value}}</br>
-        </repeat>    
+        </repeat>
+        
+        <!-- conditional content -->
+        <h3>Message</h3>
+        <check if="{{@preferredCustomer}}">
+            <strong>Thank you for being a preferred customer!</strong></br>
+        </check>
+        <check if="{{@lastlogin > strtotime('-1 month') }}">
+            <true>Welcome back!</true>
+            <false>It's been awhile</false>
+        </check>
       
  
         

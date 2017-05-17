@@ -42,7 +42,17 @@
         <h3>Dessert Options</h3>
         <?php foreach (($desserts?:[]) as $key=>$value): ?>
             <input type='checkbox' value='<?= $key ?>'/><?= $value ?></br>
-        <?php endforeach; ?>    
+        <?php endforeach; ?>
+        
+        <!-- conditional content -->
+        <h3>Message</h3>
+        <?php if ($preferredCustomer): ?>
+            <strong>Thank you for being a preferred customer!</strong></br>
+        <?php endif; ?>
+        <?php if ($lastlogin > strtotime('-1 month')): ?>
+            Welcome back!
+            <?php else: ?>It's been awhile
+        <?php endif; ?>
       
  
         

@@ -31,6 +31,9 @@
                                    'strawberry' =>
                                    'Strawberry Shortcake'
                                   ));
+        
+        $f3->set('preferredCustomer', true);
+        $f3->set('lastLogin', strtotime('-1 week'));
                                     
         
         echo Template::instance()->render('pages/info.html');

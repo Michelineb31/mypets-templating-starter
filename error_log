@@ -166,3 +166,4 @@
 [16-May-2017 21:54:38 America/Chicago] syntax error, unexpected 'value' (T_STRING) [/home/mbourque/public_html/328/mypets-templating-starter/tmp/3iii34u5mtyc0.2hbmt1l6jeqsc.php:43]
 [16-May-2017 21:54:38 America/Chicago] [328/mypets-templating-starter/index.php:36] Preview->render()
 [16-May-2017 21:54:38 America/Chicago] [328/mypets-templating-starter/index.php:43] Base->run()
+[16-May-2017 22:11:48 America/Chicago] PHP Parse error:  syntax error, unexpected 'pages' (T_STRING), expecting ',' or ')' in /home/mbourque/public_html/328/mypets-templating-starter/index.php on line 39
