@@ -53,6 +53,11 @@
             Welcome back!
             <?php else: ?>It's been awhile
         <?php endif; ?>
+        
+        <!--printing objects -->
+        <h3>My Pet</h3>
+        <p>My pets name is: <?= $myPet->getName() ?></p>
+        <p>My pets color is: <?= $myPet->getColor() ?></p>
       
  
         
