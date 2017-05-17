@@ -58,6 +58,12 @@
         <h3>My Pet</h3>
         <p>My pets name is: <?= $myPet->getName() ?></p>
         <p>My pets color is: <?= $myPet->getColor() ?></p>
+        
+        <h3>New Pet</h3>
+        <?php if ($newPet->getColor() == $color): ?>
+            Display image
+            <?php else: ?>Not your favorite color
+        <?php endif; ?>
       
  
         

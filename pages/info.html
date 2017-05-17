@@ -62,6 +62,12 @@
         <h3>My Pet</h3>
         <p>My pets name is: {{@myPet->getName() }}</p>
         <p>My pets color is: {{@myPet->getColor()}}</p>
+        
+        <h3>New Pet</h3>
+        <check if="{{@newPet->getColor() == @color}}">
+            <true>Display image</true>
+            <false>Not your favorite color</false>
+        </check>
       
  
         
